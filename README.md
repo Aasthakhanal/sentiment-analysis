@@ -72,6 +72,18 @@ The reviews are transformed into a Bag-of-Words feature matrix using CountVector
 4. Run the notebook cells in order.
 5. Allow the required NLTK resources to download when prompted by the notebook.
 
+## Dataset
+
+This project uses a dataset containing text reviews and their
+corresponding sentiment labels (positive or negative).
+
+The dataset is not included in this repository. You can download
+the dataset from [Kaggle](https://www.kaggle.com/) and save it
+as `sentiment.csv`.
+
+After downloading, update the file path in the notebook to match
+the location where you saved the dataset.
+
 ## Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
